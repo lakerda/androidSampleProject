@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">application</string>
+    <array name="ulkeler">
+        <item>tr</item>
+        <item>eng</item>
+        <item>fra</item>
+        <item>ger</item>
+        <item>ru</item>
+        <item>tr</item>
+    </array>
+    <array name="indisler">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+</resources>
